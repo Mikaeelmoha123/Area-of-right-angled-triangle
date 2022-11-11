@@ -10,6 +10,6 @@ int main()
     cin >> base;
     cin >> height;
     area = base * height * 0.5;
-    cout << "are is " << area << "\n";
+    cout << "area is " << area << "\n";
     return 0;
 }
